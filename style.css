@@ -1,0 +1,64 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-color: rgb(220, 143, 209);
+    margin: 0;
+    
+}
+#header{
+    background-color: bisque;
+    font-family: Lobster, sans-serif;
+    display: flex;
+}
+img{
+    width: 30px;
+}
+#myFooter {
+    background-color: antiquewhite; 
+}
+body{
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main{ 
+    margin: 10px;
+    text-align: center;
+}
+h1{
+    margin: 0;
+}
+h2{
+    margin: 0;
+    padding-left: 0;
+    font-family: Lobster, sans-serif;
+    color: blueviolet;
+}
+h3{
+    color: rgb(82, 19, 141);
+}
+#logo{
+    font-size: medium;
+    color: hotpink;
+    text-align: center;
+    font-family: Lobster, sans-serif;
+}
+#myFooter, #logo2{
+    font-family: Lobster, sans-serif;
+    color: hotpink;
+    font-size: small;
+    display: flex;
+    padding: 10px;
+}
+section, nav{
+    text-align: left
+    };
+#myFooter, #links{
+    text-align: center;
+    padding: 10px;
+}
+aside{
+    font-family: Lobster, sans-serif;
+}
